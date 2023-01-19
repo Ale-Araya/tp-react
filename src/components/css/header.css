@@ -1,19 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
 header{
-    background-color: #ffe500;
-    height: 4em;
-    border-bottom: 2px solid #e5d850;
+    background-color: orange;
+    height: 70px;
+    width: 100%;
+    font-size: 23px;
+    padding: 20px;
+    font-family: 'Edu QLD Beginner', cursive;
+    position: fixed;
+
 }
-header img{
-    height: 100%;
-    padding: 0.75em 0em;
+.logo{
+    float: left;
+    color: white;
+    text-transform: capitalize;
+    font-size: 40px;
 }
-header .container-logo{
-    height: 100%;
+.logo span{
+    color:#333;
+}
+.barra{
+    float: right;
+    text-transform: capitalize;
+}
+.barra li{
+    list-style: none;
     display: inline-block;
 }
-header .container-titulo{
-    display: inline-block;
-    font-size: larger;
-    color: #4b4b4b;
-    font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+.barra a{
+    color: white;
+    text-decoration: none;
+}
+.barra a:hover{
+    color: #333;
+}
+li{
+    padding: 8px 6px;
 }
