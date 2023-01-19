@@ -6,7 +6,9 @@ const HomePage = () => {
     return(
         <section className="container-fluid">
             <HeaderComponent />
-            <h1>Home Page</h1>
+            <div className="row justify-content-center home red">
+                <span>Home</span>
+            </div>
         </section>
     );   
 }
