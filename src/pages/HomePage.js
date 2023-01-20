@@ -1,13 +1,14 @@
 
 import React from 'react';
 import HeaderComponent from "../components/HeaderComponent";
+import FooterComponent from "../components/FooterComponent";
 
 const HomePage = () => {
     return(
         <section className="container-fluid">
             <HeaderComponent />
-            <div className="row justify-content-center home red">
-                <span>Home</span>
+            <div className="row justify-content-center home">
+
             </div>
             <div className="row justify-content-center blue">
                 <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
@@ -32,6 +33,7 @@ const HomePage = () => {
                     </a>
                 </div>
             </div>
+            <FooterComponent />
         </section>
     );   
 }
