@@ -4,8 +4,8 @@ import './css/header.css';
 const HeaderComponent = () => {
     return(
         <header className="row justify-content-center align-items-center">
-            <div class="logo">Pizza<span>Crespo</span></div>
-            <nav class="barra">
+            <div className="logo">Pizza<span>Crespo</span></div>
+            <nav className="barra">
                 <ul>
                     <li><a href="./index.html">Home</a></li>
                     <li><a href="#sec1">Producto</a></li>
