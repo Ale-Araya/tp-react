@@ -12,7 +12,7 @@ header{
     padding: 20px;
     font-family: 'Edu QLD Beginner', cursive;
     position: fixed;
-
+    z-index: 1;
 }
 .logo{
     float: left;
@@ -40,4 +40,5 @@ header{
 }
 li{
     padding: 8px 6px;
+    z-index: 2;
 }
