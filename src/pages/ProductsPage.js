@@ -5,10 +5,13 @@ import FooterComponent from "../components/FooterComponent";
 
 const ProductsPage = () => {
     return(
-        <section className="container-fluid">
+        <section>
             <HeaderComponent />
-            <h1>Product Page</h1>
-            <FooterComponent />
+            <div className="container-fluid">
+                <br/><br/><br/><br/>
+                <h1>Product Page</h1>
+                <FooterComponent />
+            </div>
         </section>
     );   
 }

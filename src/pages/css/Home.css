@@ -1,0 +1,24 @@
+.home{
+    height: 100vh;
+    background-image: url('/background-home-1.png');
+    background-size: cover;
+    background-position: bottom;
+}
+.carousel .carousel-item{
+    height: 25em;
+    background-size: cover;
+    background-position: center;
+}
+.carousel .carousel-img-1 {
+    background-image: url('/carousel/4.jpg');
+}
+.carousel .carousel-img-2 {
+    background-image: url('/carousel/5.jpg');
+    background-position: bottom!important;
+}
+.carousel .carousel-img-3 {
+    background-image: url('/carousel/6.jpg');
+}
+.btn-comprar{
+    margin-top: 1em;
+}

@@ -1,5 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing:border-box;
+footer{
+    background-color: black;
+    height: 5em;
+    color: white;
+    text-align: center;
 }

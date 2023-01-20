@@ -1,18 +1,13 @@
-body{
-  margin: 0;
-  padding: 0;
-  background-color: #ebebeb!important;
-}
-
-.home{
-  height: 100vh;
-  background-image: url('/background-home-1.png');
-  background-size: cover;
-  background-position: bottom;
+.container{
+  margin-top: 3em;
+  text-align: center;
 }
 .red{
   background-color: red;
 }
 .blue{
   background-color: blue;
+}
+.orange{
+  background-color: orange;
 }

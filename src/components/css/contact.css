@@ -1,0 +1,12 @@
+#contacto .map iframe{
+    margin-top: 1em;
+    width: 100%;
+    height: 20em;
+    border: 0;
+}
+#contacto .info{
+    text-align: center;
+}
+#contacto .info span{
+    display: block;
+}
