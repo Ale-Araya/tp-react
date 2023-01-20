@@ -11,7 +11,7 @@ const HomePage = () => {
             <HeaderComponent />
             <div className="row justify-content-center home"></div>
             <div className="row justify-content-center">
-                <div id="carouselExampleControls" className="col-12 container col-md-8 carousel slide" data-ride="carousel">
+                <div id="carouselExampleControls" className="col-12 container-c col-md-8 carousel slide" data-ride="carousel">
                     <h1>Nuestros productos</h1>
                     <div className="carousel-inner">
                         <div className="carousel-item carousel-img-1 active"></div>

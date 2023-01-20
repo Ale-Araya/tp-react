@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Doble Muzzarella",
+      "price": 2000,
+      "description": "Doble Muzzarella con aceitunas verdes",
+      "img": "/products/1-muzza.jpeg",
+      "imgAlt": "Doble Muzzarella"
+    },
+    {
+      "id": 2,
+      "name": "Caprese",
+      "price": 2500,
+      "description": "Rucula, queso y aceitunas negras",
+      "img": "/products/2-caprese.jpeg",
+      "imgAlt": "Caprese"
+    },
+    {
+      "id": 3,
+      "name": "Jamon y Morrones",
+      "price": 2850,
+      "description": "Doble Muzzarella, jamon y morrones",
+      "img": "/products/3-jamon-morrones.jpeg",
+      "imgAlt": "Jamon y Morrones"
+    },
+    {
+      "id": 4,
+      "name": "Doble Muzzarella",
+      "price": 2000,
+      "description": "Doble Muzzarella con aceitunas verdes",
+      "img": "/products/1-muzza.jpeg",
+      "imgAlt": "Doble Muzzarella"
+    },
+    {
+      "id": 5,
+      "name": "Caprese",
+      "price": 2500,
+      "description": "Rucula, queso y aceitunas negras",
+      "img": "/products/2-caprese.jpeg",
+      "imgAlt": "Caprese"
+    },
+    {
+      "id": 6,
+      "name": "Jamon y Morrones",
+      "price": 2850,
+      "description": "Doble Muzzarella, jamon y morrones",
+      "img": "/products/3-jamon-morrones.jpeg",
+      "imgAlt": "Jamon y Morrones"
+    }
+  ]
+}

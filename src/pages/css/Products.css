@@ -1,0 +1,11 @@
+.card{
+    width: 18rem;
+}
+.img-item{
+    height: 15em;
+    background-size: cover;
+    background-position: center;
+}
+.products-title{
+    margin-bottom: 1em;
+}

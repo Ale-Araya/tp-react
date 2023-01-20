@@ -4,7 +4,7 @@ import './css/contact.css';
 const ContactComponent = () => {
     return(
         <div id="contacto" className="row justify-content-center align-items-center">
-            <div className="container col-12">
+            <div className="container-c col-12">
                 <h2>Contacto</h2>
             </div>
             <div className="col-12 col-md-6 info">

@@ -10,14 +10,14 @@
     background-position: center;
 }
 .carousel .carousel-img-1 {
-    background-image: url('/carousel/4.jpg');
+    background-image: url('/carousel/1.jpg');
 }
 .carousel .carousel-img-2 {
-    background-image: url('/carousel/5.jpg');
+    background-image: url('/carousel/2.jpg');
     background-position: bottom!important;
 }
 .carousel .carousel-img-3 {
-    background-image: url('/carousel/6.jpg');
+    background-image: url('/carousel/3.jpg');
 }
 .btn-comprar{
     margin-top: 1em;
