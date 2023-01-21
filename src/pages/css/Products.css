@@ -9,3 +9,17 @@
 .products-title{
     margin-bottom: 1em;
 }
+.cantidad-items{
+    color: red;
+    font-weight: bold;
+}
+.modal-header .closeButton {
+    position: absolute;
+    right: 0;
+    margin: -1rem 0rem -1rem auto;
+}
+.deleteItem{
+    color: red!important;
+    cursor: pointer!important;
+    text-decoration: none!important;
+}

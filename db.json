@@ -26,27 +26,27 @@
     },
     {
       "id": 4,
-      "name": "Doble Muzzarella",
-      "price": 2000,
-      "description": "Doble Muzzarella con aceitunas verdes",
-      "img": "/products/1-muzza.jpeg",
-      "imgAlt": "Doble Muzzarella"
+      "name": "Jamon y Muzzarella",
+      "price": 2200,
+      "description": "Jamon y Muzzarella",
+      "img": "/products/4-jamon.jpeg",
+      "imgAlt": "Jamon y Muzzarella"
     },
     {
       "id": 5,
-      "name": "Caprese",
-      "price": 2500,
-      "description": "Rucula, queso y aceitunas negras",
-      "img": "/products/2-caprese.jpeg",
-      "imgAlt": "Caprese"
+      "name": "Jamon Crudo y Rucula",
+      "price": 2800,
+      "description": "Jamon Crudo y Rucula",
+      "img": "/products/5-jamon-crudo-rucula.jpeg",
+      "imgAlt": "Jamon Crudo y Rucula"
     },
     {
       "id": 6,
-      "name": "Jamon y Morrones",
-      "price": 2850,
-      "description": "Doble Muzzarella, jamon y morrones",
-      "img": "/products/3-jamon-morrones.jpeg",
-      "imgAlt": "Jamon y Morrones"
+      "name": "Fugazzeta",
+      "price": 2300,
+      "description": "Fugazzeta",
+      "img": "/products/6-fugazzeta.jpeg",
+      "imgAlt": "Fugazzeta"
     }
   ]
 }
